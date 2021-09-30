@@ -1,0 +1,15 @@
+.lesson1 {
+  &__button {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: red;
+  }
+
+  &__button2 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: green;
+  }
+}
